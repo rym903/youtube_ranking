@@ -1,1 +1,2 @@
 # youtube_ranking
+ergソングのyoutube上の再生数ランキングを作成するためのリポジトリ
